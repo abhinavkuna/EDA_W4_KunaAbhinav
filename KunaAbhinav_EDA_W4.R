@@ -1,4 +1,4 @@
-## EDA Week04 by Kuna Abhinav (All 6 plots in one script)
+## EDA Week04 by Kuna Abhinav (All plots in one script)
 
 ## read in emissions data and classification code
 emissions_data <- readRDS("summarySCC_PM25.rds")
